@@ -1,0 +1,16 @@
+/* sweetalert2 */
+.swal2-modal {
+    font-size: 18px !important;
+}
+
+.swal2-popup .swal2-footer a {
+    text-decoration: none !important;
+}
+
+.swal2-popup .swal2-footer a:hover {
+    text-decoration: underline !important;
+}
+
+.pointer {
+    cursor: pointer!important;
+}
